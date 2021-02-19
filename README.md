@@ -26,7 +26,7 @@ Time spent: **3** hours spent in total
 
 ### App Walkthrough GIF
 
-<img src="https://imgur.com/a/3ZWFbwo.gif" width=250><br>
+<img src='https://imgur.com/a/3ZWFbwo.gif' width=250><br>
 
 ### Notes
 I didn't have too many difficulties with this. I missspelled "AlamofireImage" as "AlamoFireImage" and that took me a minute to fix.
