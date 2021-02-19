@@ -25,9 +25,8 @@ Time spent: **3** hours spent in total
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="https://imgur.com/a/3ZWFbwo" width=250><br>
+<img src="https://imgur.com/a/3ZWFbwo.gif" width=250><br>
 
 ### Notes
 I didn't have too many difficulties with this. I missspelled "AlamofireImage" as "AlamoFireImage" and that took me a minute to fix.
