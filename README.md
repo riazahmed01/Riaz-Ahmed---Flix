@@ -26,7 +26,7 @@ Time spent: **3** hours spent in total
 
 ### App Walkthrough GIF
 
-<iframe src="https://giphy.com/embed/mwZvDB6FZbuXKqycqG" width="219" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mwZvDB6FZbuXKqycqG">via GIPHY</a></p>
+<img src="https://gph.is/g/am1JVJB" width="219" height="480"<br>
 
 ### Notes
 I didn't have too many difficulties with this. I missspelled "AlamofireImage" as "AlamoFireImage" and that took me a minute to fix.
