@@ -2,7 +2,7 @@
 # Flix
 Submitted by: **Riaz Ahmed**
 
-Time spent: **8** hours spent in total
+Time spent: **13** hours spent in total
 
 **Flix** is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
@@ -20,10 +20,10 @@ Time spent: **8** hours spent in total
 
 ### App Walkthrough GIF
 
-<img src="https://gfycat.com/softhelpfulcat" width=250><br>
+<img src="https://media.giphy.com/media/CVe3UMdueMJuRfNFQU/giphy.gif" width=250><br>
 
 ### Notes
-The hardest part of this assignment for me was resizing the posters so it fit into the superhero viewcontroller. I was careless and did not change estimated size to none and I spent a lot of hours trying to figure out why my posters arent showing. I even re-did my code multiple times before I finally found what the issue was.
+The coding part isn't really that difficult as I am able to follow along the video walk through for the most part. The hardest part of this assignment for me was resizing the posters so it fit into the cell correctly in the superhero tab. I was careless and did not change estimated size to none in my collection view and I spent a lot of hours trying to figure out why my posters arent showing properly. I even re-did my code multiple times before I finally found what the issue was.
 
 ---
 
